@@ -4,8 +4,8 @@
 
 - [x] Fork this repository so you have your own copy to work on.
 - [x] Clone the repository on your local machine. 
-- [ ] Run the code shown in this video.
-- [ ] Push your updated file to your GitHub repository.
+- [x] Run the code shown in this video.
+- [x] Push your updated file to your GitHub repository.
 
 ## Fork & Clone this repository
 
